@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### This Blog
+is established to provide an easy access to my Git REPOs for those who are intersted in topics such as **Machine Learning, Deep Belief Network, Linear Algebra, Neuro-science, Phonetics, Robotics,** etc.
 
-### More Information
+* For background theories, please refer to [EMCS Labs][1].
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact
+<kwb425@icloud.com>
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<!--Links to addresses, reference Markdowns-->
+[1]: https://emcslabs.github.io

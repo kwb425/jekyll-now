@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anyone who are intersted in...
+title: Anyone who is intersted in...
 ---
 
 [Making a vowel recorder][1]
@@ -37,11 +37,7 @@ title: Anyone who are intersted in...
 
 [Omok][17]
 
-[C programing][18]
-
-[C++ programing][19]
-
-are welcome to knock above links.
+is welcome to knock above links.
 
 <!--Links to addresses, reference Markdowns-->
 [1]: https://github.com/kwb425/Vowel_Recorder_Praat_and_MATLAB
@@ -61,6 +57,4 @@ are welcome to knock above links.
 [15]: https://github.com/kwb425/Priming_MATLAB
 [16]: https://github.com/kwb425/Priming_Xcode
 [17]: https://github.com/kwb425/Omok_Python
-[18]: https://github.com/kwb425/C_Introduction
-[19]: https://github.com/kwb425/CPP_Introduction
 <!--Links to images, reference Markdowns-->
